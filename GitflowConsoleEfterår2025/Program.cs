@@ -4,7 +4,8 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!"); 
+        Console.WriteLine("Hello, World!");
         Console.WriteLine("Hej Feature2_Registration");  
+        Console.WriteLine("Hej Feature2_Registration_commit2");  
     }
 }
