@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitflowConsoleEfterår2025", "GitflowConsoleEfterår2025\GitflowConsoleEfterår2025.csproj", "{F68AB476-B339-4A98-8BE5-A101774023BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68AB476-B339-4A98-8BE5-A101774023BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68AB476-B339-4A98-8BE5-A101774023BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68AB476-B339-4A98-8BE5-A101774023BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68AB476-B339-4A98-8BE5-A101774023BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2001586B-F0AB-4B12-8D69-1FA4913D4DDF}
+	EndGlobalSection
+EndGlobal
