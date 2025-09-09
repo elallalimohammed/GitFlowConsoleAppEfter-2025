@@ -7,5 +7,7 @@ internal class Program
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hej Feature1_Login"); 
         Console.WriteLine("Hej Feature1_Login_continued");
+        Console.WriteLine("Hej Feature2_Registration");  
+        Console.WriteLine("Hej Feature2_Registration_commit2");  
     }
 }
