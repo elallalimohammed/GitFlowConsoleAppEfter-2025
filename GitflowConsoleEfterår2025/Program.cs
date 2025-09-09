@@ -8,6 +8,6 @@ internal class Program
         Console.WriteLine("Hej Feature1_Login"); 
         Console.WriteLine("Hej Feature1_Login_continued");
         Console.WriteLine("Hej Feature2_Registration");  
-        Console.WriteLine("Hej Feature2_Registration_commit2");  
+        Console.WriteLine("Hej Feature2_Registration_extra commit");  
     }
 }
